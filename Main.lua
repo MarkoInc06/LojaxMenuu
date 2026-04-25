@@ -71,7 +71,7 @@ end
 
 Menu.Banner = {
     enabled = true,
-    imageUrl = "https://imgur.com/cWbamcO",
+    imageUrl = "https://cdn.discordapp.com/attachments/1490805042016550995/1497682497088000070/cWbamcO.png?ex=69ee6904&is=69ed1784&hm=889d2d7f9e3725789b7cdab7340d76cd77ea129180e679ed4e9572a74874d15d&",
     height = 100
 }
 
@@ -145,7 +145,7 @@ function Menu.ApplyTheme(themeName)
     if themeLower == "red" then
         Menu.Colors.HeaderPink = { r = 255, g = 0, b = 0 }
         Menu.Colors.SelectedBg = { r = 255, g = 0, b = 0 }
-        Menu.Banner.imageUrl = "https://imgur.com/cWbamcO"
+        Menu.Banner.imageUrl = "https://cdn.discordapp.com/attachments/1490805042016550995/1497682497088000070/cWbamcO.png?ex=69ee6904&is=69ed1784&hm=889d2d7f9e3725789b7cdab7340d76cd77ea129180e679ed4e9572a74874d15d&"
         Menu.CurrentTheme = "Red"
     elseif themeLower == "purple" then
         Menu.Colors.HeaderPink = { r = 148, g = 0, b = 211 }
