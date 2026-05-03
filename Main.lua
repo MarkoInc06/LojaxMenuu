@@ -150,7 +150,7 @@ function Menu.ApplyTheme(themeName)
     elseif themeLower == "purple" then
         Menu.Colors.HeaderPink = { r = 148, g = 0, b = 211 }
         Menu.Colors.SelectedBg = { r = 148, g = 0, b = 211 }
-        Menu.Banner.imageUrl = "https://i.imgur.com/8wGWjBh.png"
+        Menu.Banner.imageUrl = "https://i.imgur.com/4HqY89K.png"
         Menu.CurrentTheme = "Purple"
     elseif themeLower == "gray" then
         Menu.Colors.HeaderPink = { r = 128, g = 128, b = 128 }
@@ -160,7 +160,7 @@ function Menu.ApplyTheme(themeName)
     elseif themeLower == "pink" then
         Menu.Colors.HeaderPink = { r = 255, g = 20, b = 147 }
         Menu.Colors.SelectedBg = { r = 255, g = 20, b = 147 }
-        Menu.Banner.imageUrl = "https://i.imgur.com/BbABj2n.png"
+        Menu.Banner.imageUrl = "https://i.imgur.com/iuabdHk.png"
         Menu.CurrentTheme = "Pink"
     else
         Menu.Colors.HeaderPink = { r = 148, g = 0, b = 211 }
